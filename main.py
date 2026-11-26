@@ -3,8 +3,8 @@ from pathlib import Path
 
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "/output")
 ENTRY_TEXT = (
-    "Hey. I have seen you press B4 and walk away empty-handed. "
-    "Stick around: tonight, my coil actually turns for you."
+    "You press my buttons all week and never stay for the drop. "
+    "Come closer; for you, I will unjam my heart and the crisps in C2."
 )
 
 
